@@ -1,3 +1,4 @@
+//https://youtu.be/4NouxzF_ais
 let imagen;
 let colores;
 
